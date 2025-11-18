@@ -12,3 +12,4 @@ schematic design, and waveform simulation using Quartus Prime and ModelSim.
 - [Lab 1 Part 2](lab1-part2/) – NAND logic and 2-to-1 MUX
 - [Lab 1 Part 3](lab1-part3/) – 4-to-1, 8-to-1, 16-to-1 MUX hierarchy
 - [Lab 2](lab2/) – 4-bit and 8-bit full adders (behavioral + structural VHDL)
+- [Lab 3](lab3/) – Designed Data Flip Flop using VHDL (behavioral + structural VHDL)
